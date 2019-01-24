@@ -9,6 +9,7 @@ java_import(
         "@io_bazel_rules_scala_org_specs2_specs2_common",
         "@io_bazel_rules_scala_org_specs2_specs2_core",
         "@io_bazel_rules_scala_org_specs2_specs2_matcher",
+        "@io_bazel_rules_scala_org_specs2_specs2_fp",
     ],
     deps = [
         "//external:io_bazel_rules_scala/dependency/scala/parser_combinators",
